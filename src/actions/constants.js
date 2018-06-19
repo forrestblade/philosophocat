@@ -1,0 +1,5 @@
+export const ADD_FAVORITE = 'ADD_FAVORITE'
+export const ADD_QUOTES = 'ADD_QUOTES'
+export const ADD_RANDOM = 'ADD_RANDOM'
+export const CALL_API = 'CALL_API'
+export const CALL_FAIL = 'CALL_FAIL'
